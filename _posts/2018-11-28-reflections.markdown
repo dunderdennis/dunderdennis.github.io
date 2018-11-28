@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Examination 1 - Reflections"
-date:   2018-11-26 12:17:12 -0600
-categories: jekyll update
+date:   2018-11-28 12:00:00
 ---
 
 * **What do you think of pre-compiling your CSS?**
@@ -45,4 +44,6 @@ categories: jekyll update
 
 * **What is Open Graph and how do you make use of it?**
 
-    I'd love to find out =)
+    Open Graph is a protocol to give a linked url a small showcase of the website linked. I'd say almost everyone uses it daily, when something is posted on i.e. Twitter or Discord, a small "box" with information pops out under the url.
+
+    For this site, I used it to give information about the site's title, what type of site it is, the websites url and an image attached. The image is an avatar I've created in the course 1ME402 and also serves as the sites favicon.

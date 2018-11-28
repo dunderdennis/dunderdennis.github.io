@@ -4,63 +4,45 @@ title: The assignment
 permalink: /assignment/
 ---
 
-<b>The assignment</b>
-
 In this assignment you are supposed to produce a web site that will be the front for your published assignments in this course and possibly in courses to come. The source code together with vagrant files etc. will be version controlled using git and pushed to the private YOURUSERNAME-examination-1-repo in 1dv022. However, the published site will be made public using your github-account and github-pages.
 
-<b>Requirements</b>
+# Requirements
 
-<ul>
-    <li>
-        Well designed - Well, what is well designed? We should at least see that you put some effort in your design and not just using the standard stuff
-    </li>
+* Well designed - Well, what is well designed? We should at least see that you put some effort in your design and not just using the standard stuff
 
-    <li>
-        All CSS should be generated from a CSS preprocessor
-    </li>
+* All CSS should be generated from a CSS preprocessor
 
-    <li>
-        Your site should have multiple pages, at least one where you present your self, your interest and so on and one blog page where you can present blog posts (more than one)
-    </li>
+* Your site should have multiple pages, at least one where you present your self, your interest and so on and one blog page where you can present blog posts (more than one)
 
-    <li>
-        Visitors should be able to comment on your posts (for instance you could use Disqus)
-    </li>
+* Visitors should be able to comment on your posts (for instance you could use Disqus)
 
-    <li>
-        Your site should have a robots.txt with your preferred configuration.
-    </li>
+* Your site should have a robots.txt with your preferred configuration.
 
-    <li>
-        Your site should have a humans.txt with your preferred configuration.
-    </li>
+* Your site should have a humans.txt with your preferred configuration.
 
-    <li>
-        You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter.
-    </li>        
-</ul>
+* You should use open graph for easy sharing on social media. You should at least use "title", "url", "type" and "image". You can check if it is working by sharing your site on for instance Facebook or Twitter.        
 
-<b>Blog post</b>
+# Blog post
 
-Your blog page should have multiple posts (Swedish or English) and atleast one post where you reflects over the following:
+* Your blog page should have multiple posts (Swedish or English) and atleast one post where you reflects over the following:
 
-What do you think of pre-compiling your CSS?
-Compare to regular CSS
-Which techniques did you use?
-Pros and cons?
+* What do you think of pre-compiling your CSS?
+    * Compare to regular CSS
+    * Which techniques did you use?
+    * Pros and cons?
 
-What do you think of static site generators?
-What type of projects are they suitable for?
+* What do you think of static site generators?
+    * What type of projects are they suitable for?
 
-What is robots.txt and how have you configure it for your site?
+* What is robots.txt and how have you configure it for your site?
 
-What is humans.txt and how have you configure it for your site?
+* What is humans.txt and how have you configure it for your site?
 
-How did you implements comments to blog posts
+* How did you implements comments to blog posts
 
-What is Open Graph and how do you make use of it?
+* What is Open Graph and how do you make use of it?
 
-<b>Finishing up</b>
+# Finishing up
 
 When you feeling ready with your site it's time to publish it on GitHub Pages. GitHub Pages uses Jekyll by default so we can push the jekyll-files. OBS! The site you will publish is going to be public. Do the following.
 

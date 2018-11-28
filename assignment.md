@@ -24,7 +24,7 @@ In this assignment you are supposed to produce a web site that will be the front
 
 # Blog post
 
-* Your blog page should have multiple posts (Swedish or English) and atleast one post where you reflects over the following:
+Your blog page should have multiple posts (Swedish or English) and atleast one post where you reflects over the following:
 
 * What do you think of pre-compiling your CSS?
     * Compare to regular CSS
@@ -32,7 +32,8 @@ In this assignment you are supposed to produce a web site that will be the front
     * Pros and cons?
 
 * What do you think of static site generators?
-    * What type of projects are they suitable for?
+
+* What type of projects are they suitable for?
 
 * What is robots.txt and how have you configure it for your site?
 

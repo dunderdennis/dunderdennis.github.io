@@ -8,6 +8,11 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  background:-webkit-linear-gradient(top,#FFF,rgb(150, 221, 226));
+  background:-o-linear-gradient(bottom,#FFF,rgb(150, 221, 226));
+  background:-moz-linear-gradient(bottom,#FFF,rgb(150, 221, 226));
+  background:linear-gradient(to bottom,#FFF,rgb(150, 221, 226));
 }
 
 .site-title {
@@ -17,7 +22,6 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
   &,
   &:visited {
     color: $grey-color-dark;
@@ -25,7 +29,8 @@
 }
 
 .site-nav {
-  float: right;
+  margin-left: 20px;
+  float: left;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -108,6 +113,10 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+    background:-webkit-linear-gradient(bottom,#FFF,rgb(150, 221, 226));
+    background:-o-linear-gradient(top,#FFF,rgb(150, 221, 226));
+    background:-moz-linear-gradient(top,#FFF,rgb(150, 221, 226));
+    background:linear-gradient(to top,#FFF,rgb(150, 221, 226));
 }
 
 .footer-heading {

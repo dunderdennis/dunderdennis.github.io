@@ -8,7 +8,11 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-$background-color: #333;
+/**
+ * Some variables set by me
+ */
+$base-font-family: Helvetica;
+$base-font-size: 14px;
 
 /**
  * Basic styling

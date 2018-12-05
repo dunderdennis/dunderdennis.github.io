@@ -6,7 +6,7 @@ date:   2018-11-28 12:00:00
 
 * **What do you think of pre-compiling your CSS?**
 
-    In my opinion pre-compiling CSS has a way higher learning curb than regular CSS, however once you get the hang of it, I'd say it's much easier to work with since you don't have to repeat yourself nearly as much. 
+    In my opinion pre-compiling CSS has a higher learning curb than regular CSS, however once you get the hang of it, I'd say it's much easier to work with since you don't have to repeat yourself nearly as much. 
     
     For example, you don't have to type "nav li ul" and similar things for every instance of CSS that you want to change, instead using tabulation to gather all the "nav"-CSS and changing it much more intuitiely. 
 
@@ -16,7 +16,7 @@ date:   2018-11-28 12:00:00
 
 * **What do you think of static site generators?**
 
-    I think they are fantastic for creating a quite stylish and modern website such as a blog instantly. I was surprised when I first got the site running how nice it actually was.
+    I think they are fantastic for creating a quite stylish and modern website such as a blog instantly . I was surprised when I first got the site running how nice it actually was. 
 
     The drawbacks of SSG in my opinion is that they're harder to configure than a typical website. If you want to change the layout, or some pages you hav to dig for the right place to edit it. Also, getting it running was a huge hassle, while compared to just creating a index.html and opening it in your browser.
 
@@ -44,6 +44,6 @@ date:   2018-11-28 12:00:00
 
 * **What is Open Graph and how do you make use of it?**
 
-    Open Graph is a protocol to give a linked url a small showcase of the website linked. I'd say almost everyone uses it daily, when something is posted on i.e. Twitter or Discord, a small "box" with information pops out under the url.
+    Open Graph is a protocol to give a linked url a small showcase of the website linked. I'd say almost everyone uses it daily, when something is posted on eg. Twitter or Discord, a small "box" with information pops out under the url.
 
     For this site, I used it to give information about the site's title, what type of site it is, the websites url and an image attached. The image is an avatar I've created in the course 1ME402 and also serves as the sites favicon.
